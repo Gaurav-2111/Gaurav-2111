@@ -2,11 +2,6 @@
 <p align="center">
   <img src="./banner.png" width="100%" />
 </p>
-<!-- Banner -->
-
-<p align="center">
-  <img src="./assets/banner.png" width="100%" />
-</p>
 
 <br>
 
