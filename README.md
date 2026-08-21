@@ -31,6 +31,52 @@ I work with data to explore patterns, answer questions, and turn raw information
 * 📊 Customer retention and churn analytics
 * 🧪 A/B testing and experiment analysis
 * ⚙️ Building production-style data projects
+## 🚀 Projects
+
+This profile documents the projects I build while developing my skills in data analytics and working with real-world data.
+
+Current areas of focus include:
+
+* 📊 Customer Retention & Churn Analytics
+* 📈 Business and Product Analytics
+* 🧪 A/B Testing & Experiment Analysis
+* 🗄️ SQL-based Data Analysis
+
+More projects will be added as they are completed.
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+
+</p>
+
+<p align="center">
+  <code>Python</code> •
+  <code>SQL</code> •
+  <code>MySQL</code> •
+  <code>Pandas</code> •
+  <code>NumPy</code> •
+  <code>Power BI</code> •
+  <code>Git</code>
+</p>
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Gaurav-2111&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
+    alt="Gaurav's GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-2111&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"
+    alt="GitHub contribution streak"
+  />
+</p>
 
 <!--
 **Gaurav-2111/Gaurav-2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
