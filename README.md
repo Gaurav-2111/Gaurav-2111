@@ -66,8 +66,8 @@ More projects will be added as they are completed.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Gaurav-2111&show_icons=true&theme=transparent&hide_border=true"
-    alt="GitHub stats"
+    src="https://streak-stats.demolab.com/?user=Gaurav-2111&theme=transparent&hide_border=true"
+    alt="GitHub contribution streak"
   />
 </p>
 
