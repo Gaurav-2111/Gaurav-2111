@@ -78,17 +78,23 @@ More projects will be added as they are completed.
   />
 </p>
 
-<!--
-**Gaurav-2111/Gaurav-2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Connect With Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-dev-641351365/">
+    LinkedIn
+  </a>
+  •
+  <a href="mailto:gauravdev339@gmail.com">
+    Email
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <i>Learning through projects, one dataset at a time.</i>
+</p>
+
